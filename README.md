@@ -1,0 +1,1 @@
+# BeautifulSoup-Scrape-the-Wikipedia-list-of-top-1000-Universities-in-the-world-and-analyse
